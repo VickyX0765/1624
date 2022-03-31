@@ -1,9 +1,6 @@
 
 import numpy as np
 from sklearn.base import BaseEstimator, ClassifierMixin
-from sklearn.utils.extmath import weighted_mode
-from sklearn.base import BaseEstimator, ClassifierMixin
-import math
 
 #Similarity Measures
 #In the case of categorical variables, Hamming distance is the best choice to measure similarity
